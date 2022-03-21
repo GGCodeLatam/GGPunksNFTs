@@ -1,4 +1,4 @@
-# Dapp desplegada:
+# Deployed DApp:
 https://ggpunksnft.herokuapp.com/
 
 # Basic Sample Hardhat Project
